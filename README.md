@@ -1,3 +1,5 @@
+This is Erik Jagnandan's hello-git file
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
